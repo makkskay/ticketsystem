@@ -1,7 +1,7 @@
-## ticketsystem
+# ticketsystem
 
 
-#Install guide for Ruby on Rails on Ubuntu 15.04 with MySQL (Skip PostgreSQL and Final Steps):
+##Install guide for Ruby on Rails on Ubuntu 15.04 with MySQL (Skip PostgreSQL and Final Steps):
 
 https://gorails.com/setup/ubuntu/15.04
 
