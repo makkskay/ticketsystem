@@ -17,6 +17,4 @@ Once your Git SSH key has been set up, to Clone the ticketsystem repository to y
 ![Alt text](/app/assets/images/tsERD.png?raw=true "tsEntityRelationDiagram")
 
 
-The www.draw.io xml file with the current ERD file:
-
-[a relative link](tsERD.xml)
+The www.draw.io xml file with the current [ERD file](tsERD.xml).
